@@ -1,3 +1,0 @@
-tas_Amon_CESM1-CAM5_historical_rcp85_CONUS_r2i1p1_192001-210012.nc
-tas_Amon_CESM1-CAM5_historical_rcp85_CONUS_r3i1p1_192001-210012.nc
-tas_Amon_CESM1-CAM5_historical_rcp85_CONUS_r4i1p1_192001-210012.nc
