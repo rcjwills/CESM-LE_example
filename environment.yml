@@ -10,6 +10,7 @@ dependencies:
   - gcsfs
   - intake::intake-xarray
   - zarr
+  - netcdf4
   - matplotlib
   - numcodecs
   - python-blosc
